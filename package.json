@@ -1,6 +1,6 @@
 {
   "name": "vue-axios-loading",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "全局loading插件",
   "repository": "github",
   "private": false,
