@@ -12,7 +12,7 @@ const install = ( Vue, imagePath ) => {
       if (loadingBox) {
         loadingBox.style.display = 'flex';
         loadingBox.innerHTML = `
-          <img src=${ imagePath } alt="">
+          <img src=${ imagePath }>
         `;
       } else {
         let box = document.createElement('div');
