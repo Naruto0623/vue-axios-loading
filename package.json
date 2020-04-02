@@ -1,0 +1,20 @@
+{
+  "name": "vue-axios-loading",
+  "version": "1.0.3",
+  "description": "全局loading插件",
+  "repository": "github",
+  "private": false,
+  "author": "Naruto0623 <644683652@qq.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/Naruto0623/vue-axios-loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue",
+    "loading",
+    "axios",
+    "Javascript"
+  ]
+}
