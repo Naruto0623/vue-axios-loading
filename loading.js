@@ -50,6 +50,6 @@ const install = ( Vue, imagePath ) => {
 *   Loading
 * }
 * */
-export default {
+module.exports =  {
   install
-}
+};
